@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    width: Fill (1,360px);
+    height: Hug (48px);
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.container .l{
+    width: Fill (1,360px);
+height: Hug (48px);
+gap: 0px;
+opacity: 0px;
+
+}
+.l a{
+    
+    text-decoration:none;
+    color: rgba(255, 255, 255, 1);
+    
+}
+.back{
+    display: flex;
+    background-image: url(./bg-image.png);
+    width: Fill (1,918px);
+height: Hug (822px);
+gap: 0px;
+border-radius: 0px 0px 64px 64px;
+opacity: 0px;
+
+}
+.container h1{
+    color: white;
+    font-size: 48px;
+}
+.container button{
+    display: flex;
+    background-color:rgba(123, 97, 255, 1);
+    color: white;
+    border-radius: 15px;
+    padding: 24px;
+    gap: 40px;
+}
+#hero{
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;  
+  gap: 40px;
+}
+.search{
+    width: Fixed (1,140px);
+height: Hug (76px);
+padding: 8px 0px 0px 0px;
+gap: 34px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+
+}
+h2{
+    color: white;
+}
+#hero .container{
+    width: Fill (1,360px);
+height: Hug (62px);
+gap: 24px;
+opacity: 0px;
+
+}
